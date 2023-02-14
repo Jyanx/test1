@@ -3,7 +3,7 @@
 }
 
 body{
-    background-image: linear-gradient(135deg,#00e7d4, #505488, #ef3f80, #161569, #ef3f80, #505488, #00E7D4 );
+    background-image: linear-gradient(135deg,#8ffff6, #0a139c, #f5387d, #353399, #e63978, #444ac2, #7de6dd );
     background-size: 500%;
     animation: fanimado 60s infinite;
 }
